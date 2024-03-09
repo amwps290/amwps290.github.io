@@ -1,1 +1,1 @@
-- [SQLite] (SQLite/summary.md)
+- [SQLite](SQLite/summary.md)
