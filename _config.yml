@@ -120,9 +120,9 @@ comments:
   # Giscus options › https://giscus.app
   giscus:
     repo: amwps290/blog_dicc # <gh-username>/<repo>
-    repo_id:R_kgDOM34JAg
+    repo_id: R_kgDOM34JAg
     category: blog
-    category_id:DIC_kwDOM34JAs4Ci1Vj
+    category_id: DIC_kwDOM34JAs4Ci1Vj
     mapping: # optional, default to 'pathname'
     strict: # optional, default to '0'
     input_position: # optional, default to 'bottom'
