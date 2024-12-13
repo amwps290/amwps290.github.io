@@ -1,7 +1,7 @@
 ---
 title: PostgreSQL btree_gist 插件源码分析
 author: amwps290
-date: 2024-07-23 00:10:00 +0800
+date: 2024-12-04 00:10:00 +0800
 categories: [数据库,源码分析,PostgreSQL]
 tags: [database,postgresql]
 mermaid: true
