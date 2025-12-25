@@ -10,4 +10,4 @@ mermaid: true
 
 在 PostgreSQL 中有一个配置参数 `shared_buffer` 这个参数控制这数据库将使用多少内存来缓存从磁盘读取的数据块。今天我们先来看一下共享缓存的初始化。
 
-<% gist 60e6af5a9adfe6e3103acbc853d5dedc CreateSharedMemoryAndSemaphores %>
+{% gist 60e6af5a9adfe6e3103acbc853d5dedc CreateSharedMemoryAndSemaphores %}
